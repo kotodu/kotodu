@@ -1,4 +1,8 @@
-### Hi there 👋
+# Websiteも見てね😉
+[https://kotodu.io](https://kotodu.io)
+
+# Status
+- 🌱 技術習得に注力中
 
 <!--
 **busroutemap/busroutemap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
