@@ -1,4 +1,4 @@
-# Websiteも見てね😉
+# 新しくなったWebsiteも見てね😉
 [https://kotodu.io](https://kotodu.io)
 
 # Status
