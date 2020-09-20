@@ -3,6 +3,8 @@
 
 # Status
 - 🌱 技術習得に注力中
+- 10月の応用情報技術者試験に向けて、毎日の「草」の育成をお休みしております
+
 
 <!--
 **busroutemap/busroutemap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
