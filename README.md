@@ -3,9 +3,7 @@
 
 # Status
 - 🌱 技術習得に注力中
-- 応用情報合格点取れてました✌
-- 裏でReact勉強中
-- そろそろコード書き始めます
+- セキュリティマネジメント試験勉強中
 
 # Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kotodu&show_icons=true&count_private=true&theme=vue)
