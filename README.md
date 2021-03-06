@@ -1,11 +1,10 @@
-# 新しくなった Website も見てね 😉
+# Website も見てね 😉
 
 [https://kotodu.io](https://kotodu.io)
 
 # Status
 
 - 🌱 技術習得に注力中
-- セキュリティマネジメント、応用情報無事合格 ✌
 
 # Stats
 
