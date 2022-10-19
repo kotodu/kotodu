@@ -1,10 +1,16 @@
-# Website も見てね 😉
+# About me
 
-[https://kotodu.io](https://kotodu.io)
+- 好奇心駆動開発 ✌
+
+# Links
+
+- [https://kotodu.io](https://kotodu.io)
 
 # Status
 
-- 🌱 技術習得に注力中
+- 🌱 向上心あり
+- ⚡️ 刺激が欲しい
+- ⏪️ 初心に立ち戻った
 
 # Stats
 
